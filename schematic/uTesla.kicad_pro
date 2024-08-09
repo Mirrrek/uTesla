@@ -322,6 +322,31 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "0cecab2b-a552-4f9c-b012-66fc2b7d8bdb",
+      ""
+    ],
+    [
+      "40e0481b-1d5b-49c7-bf9f-abcc1f3a7809",
+      "Power Supply"
+    ],
+    [
+      "e06adc09-bf91-4da9-9692-74073479976c",
+      "Microcontroller"
+    ],
+    [
+      "44b4a965-d1c4-4853-bb2e-cf8d84c41bf6",
+      "Driver"
+    ],
+    [
+      "af7f4b01-4906-497f-8eac-258d9974f619",
+      "SD Card"
+    ],
+    [
+      "13104c3d-b875-4e02-970f-7d210569d6e3",
+      "Contacts"
+    ]
+  ],
   "text_variables": {}
 }
