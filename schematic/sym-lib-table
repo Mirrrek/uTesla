@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DC-005")(type "KiCad")(uri "C:/Users/mespo/Downloads/DC-005/DC-005.kicad_sym")(options "")(descr ""))
+  (lib (name "MP9486A")(type "KiCad")(uri "C:/Users/mespo/Downloads/MP9486A/MP9486A.kicad_sym")(options "")(descr ""))
+)
