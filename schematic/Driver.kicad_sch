@@ -1596,7 +1596,7 @@
     (property "Value" "1:1" (at 153.67 111.1123 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Inductor_THT:L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D" (at 147.32 109.22 0)
+    (property "Footprint" "Transformer_THT:Transformer_Toroid_Horizontal_D9.0mm_Amidon-T30" (at 147.32 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 147.32 109.22 0)
