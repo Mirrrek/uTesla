@@ -1729,7 +1729,7 @@
   (symbol (lib_id "MCU_Microchip_ATmega:ATmega328P-A") (at 119.38 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a49755eb-2aad-4db4-917c-9e8f1180c4fc)
-    (property "Reference" "U2" (at 124.46 48.26 0)
+    (property "Reference" "U3" (at 124.46 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ATmega328P-A" (at 124.46 50.8 0)
@@ -1776,7 +1776,7 @@
     (instances
       (project "uTesla"
         (path "/0cecab2b-a552-4f9c-b012-66fc2b7d8bdb/e06adc09-bf91-4da9-9692-74073479976c"
-          (reference "U2") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )

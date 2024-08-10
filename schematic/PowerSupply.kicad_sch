@@ -832,6 +832,7 @@
     )
   )
 
+
   (junction (at 198.12 81.28) (diameter 0) (color 0 0 0 0)
     (uuid 027f2522-a7a0-4dfc-8163-98f38b9b14f9)
   )
@@ -1695,7 +1696,7 @@
   (symbol (lib_id "Regulator_Linear:AMS1117-3.3") (at 152.4 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 849930ba-ee55-4037-93ea-66502d2b6f69)
-    (property "Reference" "U1" (at 152.4 120.65 0)
+    (property "Reference" "U2" (at 152.4 120.65 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AMS1117-3.3" (at 152.4 123.19 0)
@@ -1713,7 +1714,7 @@
     (instances
       (project "uTesla"
         (path "/0cecab2b-a552-4f9c-b012-66fc2b7d8bdb/40e0481b-1d5b-49c7-bf9f-abcc1f3a7809"
-          (reference "U1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -1900,7 +1901,7 @@
   (symbol (lib_id "MP9486A:MP9486A") (at 162.56 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9cb2e92f-99f7-4c20-8481-365829410953)
-    (property "Reference" "IC1" (at 162.56 69.85 0)
+    (property "Reference" "U1" (at 162.56 69.85 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MP9486A" (at 162.56 72.39 0)
@@ -1947,7 +1948,7 @@
     (instances
       (project "uTesla"
         (path "/0cecab2b-a552-4f9c-b012-66fc2b7d8bdb/40e0481b-1d5b-49c7-bf9f-abcc1f3a7809"
-          (reference "IC1") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
